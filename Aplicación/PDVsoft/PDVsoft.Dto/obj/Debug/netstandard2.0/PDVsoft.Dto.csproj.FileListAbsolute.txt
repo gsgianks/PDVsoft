@@ -1,0 +1,9 @@
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\bin\Debug\netstandard2.0\PDVsoft.Dto.deps.json
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\bin\Debug\netstandard2.0\PDVsoft.Dto.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\bin\Debug\netstandard2.0\PDVsoft.Dto.pdb
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\obj\Debug\netstandard2.0\PDVsoft.Dto.csprojResolveAssemblyReference.cache
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\obj\Debug\netstandard2.0\PDVsoft.Dto.csproj.CoreCompileInputs.cache
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\obj\Debug\netstandard2.0\PDVsoft.Dto.AssemblyInfoInputs.cache
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\obj\Debug\netstandard2.0\PDVsoft.Dto.AssemblyInfo.cs
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\obj\Debug\netstandard2.0\PDVsoft.Dto.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.Dto\obj\Debug\netstandard2.0\PDVsoft.Dto.pdb

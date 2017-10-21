@@ -1,0 +1,17 @@
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\PDVsoft.Dal.deps.json
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\PDVsoft.Dal.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\PDVsoft.Dal.pdb
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\obj\Debug\netstandard2.0\PDVsoft.Dal.csprojResolveAssemblyReference.cache
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\obj\Debug\netstandard2.0\PDVsoft.Dal.csproj.CoreCompileInputs.cache
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\obj\Debug\netstandard2.0\PDVsoft.Dal.AssemblyInfoInputs.cache
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\obj\Debug\netstandard2.0\PDVsoft.Dal.AssemblyInfo.cs
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\obj\Debug\netstandard2.0\PDVsoft.Dal.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\obj\Debug\netstandard2.0\PDVsoft.Dal.pdb
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\MySql.Data.Entity.EF6.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\MySql.Web.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\MySql.Data.xml
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\MySql.Data.Entity.EF6.xml
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\MySql.Web.xml
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\PDVsoft.Dto.dll
+C:\Proyectos\PDVsoft\Aplicación\PDVsoft\PDVsoft.DAL\bin\Debug\netstandard2.0\PDVsoft.Dto.pdb

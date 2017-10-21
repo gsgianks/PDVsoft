@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pdvsoftModelStoreContainer" CdmEntityContainer="DB_PDVsoft">
+    <EntitySetMapping Name="segusuario">
+      <EntityTypeMapping TypeName="pdvsoftModel.segusuario">
+        <MappingFragment StoreEntitySet="segusuario">
+          <ScalarProperty Name="codUsuario" ColumnName="codUsuario" />
+          <ScalarProperty Name="nomNombre" ColumnName="nomNombre" />
+          <ScalarProperty Name="desPrimerApellido" ColumnName="desPrimerApellido" />
+          <ScalarProperty Name="desSergundoApellido" ColumnName="desSergundoApellido" />
+          <ScalarProperty Name="codContrasena" ColumnName="codContrasena" />
+          <ScalarProperty Name="desCorreo" ColumnName="desCorreo" />
+          <ScalarProperty Name="desURLImagen" ColumnName="desURLImagen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
